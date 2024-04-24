@@ -1,0 +1,42 @@
+C:\Users\lehon\source\repos\MongoDB\MongoDB\bin\Debug\MongoDB.exe.config
+C:\Users\lehon\source\repos\MongoDB\MongoDB\bin\Debug\MongoDB.exe
+C:\Users\lehon\source\repos\MongoDB\MongoDB\bin\Debug\MongoDB.pdb
+C:\Users\lehon\source\repos\MongoDB\MongoDB\bin\Debug\MongoDB.Bson.dll
+C:\Users\lehon\source\repos\MongoDB\MongoDB\bin\Debug\MongoDB.Driver.dll
+C:\Users\lehon\source\repos\MongoDB\MongoDB\bin\Debug\MongoDB.Bson.xml
+C:\Users\lehon\source\repos\MongoDB\MongoDB\bin\Debug\MongoDB.Driver.xml
+C:\Users\lehon\source\repos\MongoDB\MongoDB\obj\Debug\MongoDB.csproj.AssemblyReference.cache
+C:\Users\lehon\source\repos\MongoDB\MongoDB\obj\Debug\MongoDB.Form1.resources
+C:\Users\lehon\source\repos\MongoDB\MongoDB\obj\Debug\MongoDB.Properties.Resources.resources
+C:\Users\lehon\source\repos\MongoDB\MongoDB\obj\Debug\MongoDB.csproj.GenerateResource.cache
+C:\Users\lehon\source\repos\MongoDB\MongoDB\obj\Debug\MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\lehon\source\repos\MongoDB\MongoDB\obj\Debug\MongoDB.exe
+C:\Users\lehon\source\repos\MongoDB\MongoDB\obj\Debug\MongoDB.pdb
+C:\Users\lehon\Desktop\MongoDB_GUT\MongoDB\bin\Debug\MongoDB.exe.config
+C:\Users\lehon\Desktop\MongoDB_GUT\MongoDB\bin\Debug\MongoDB.exe
+C:\Users\lehon\Desktop\MongoDB_GUT\MongoDB\bin\Debug\MongoDB.pdb
+C:\Users\lehon\Desktop\MongoDB_GUT\MongoDB\bin\Debug\MongoDB.Bson.xml
+C:\Users\lehon\Desktop\MongoDB_GUT\MongoDB\bin\Debug\MongoDB.Driver.xml
+C:\Users\lehon\Desktop\MongoDB_GUT\MongoDB\obj\Debug\MongoDB.csproj.AssemblyReference.cache
+C:\Users\lehon\Desktop\MongoDB_GUT\MongoDB\obj\Debug\MongoDB.NHANVIEN.resources
+C:\Users\lehon\Desktop\MongoDB_GUT\MongoDB\obj\Debug\MongoDB.Main.resources
+C:\Users\lehon\Desktop\MongoDB_GUT\MongoDB\obj\Debug\MongoDB.Properties.Resources.resources
+C:\Users\lehon\Desktop\MongoDB_GUT\MongoDB\obj\Debug\MongoDB.csproj.GenerateResource.cache
+C:\Users\lehon\Desktop\MongoDB_GUT\MongoDB\obj\Debug\MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\lehon\Desktop\MongoDB_GUT\MongoDB\obj\Debug\MongoDB.exe
+C:\Users\lehon\Desktop\MongoDB_GUT\MongoDB\obj\Debug\MongoDB.pdb
+C:\Users\lehon\Desktop\MongoDB_GUT\MongoDB\obj\Debug\MongoDB.PHONGBAN.resources
+C:\Users\Admin\Downloads\MongoDB (2)\MongoDB\MongoDB\bin\Debug\MongoDB.exe.config
+C:\Users\Admin\Downloads\MongoDB (2)\MongoDB\MongoDB\bin\Debug\MongoDB.exe
+C:\Users\Admin\Downloads\MongoDB (2)\MongoDB\MongoDB\bin\Debug\MongoDB.pdb
+C:\Users\Admin\Downloads\MongoDB (2)\MongoDB\MongoDB\obj\Debug\MongoDB.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\MongoDB (2)\MongoDB\MongoDB\obj\Debug\MongoDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\MongoDB (2)\MongoDB\MongoDB\obj\Debug\MongoDB.NHANVIEN.resources
+C:\Users\Admin\Downloads\MongoDB (2)\MongoDB\MongoDB\obj\Debug\MongoDB.Main.resources
+C:\Users\Admin\Downloads\MongoDB (2)\MongoDB\MongoDB\obj\Debug\MongoDB.PHONGBAN.resources
+C:\Users\Admin\Downloads\MongoDB (2)\MongoDB\MongoDB\obj\Debug\MongoDB.Properties.Resources.resources
+C:\Users\Admin\Downloads\MongoDB (2)\MongoDB\MongoDB\obj\Debug\MongoDB.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\MongoDB (2)\MongoDB\MongoDB\obj\Debug\MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\MongoDB (2)\MongoDB\MongoDB\obj\Debug\MongoDB.csproj.CopyComplete
+C:\Users\Admin\Downloads\MongoDB (2)\MongoDB\MongoDB\obj\Debug\MongoDB.exe
+C:\Users\Admin\Downloads\MongoDB (2)\MongoDB\MongoDB\obj\Debug\MongoDB.pdb

@@ -1,0 +1,21 @@
+_id,Employee code,Name,Date of birth,Address,Phone number,Gender,Department,Position,Salary($)
+64cc5a4b97c9666f6c3c35f9,21748020101,Nguyen Thanh D,2003-07-10T17:00:00.000Z,"30 Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 807-1266,Female,Accounting ,Manager,1300
+64cc5a7797c9666f6c3c35fe,21748020107,Nguyen Thanh K,2003-07-07T17:00:00.000Z,"89 Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 807-3399,Male,Accounting ,Emloyee,600
+64cc5a9297c9666f6c3c3603,21748020106,Vo Tra L ,1998-02-16T17:00:00.000Z,"66 Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 801-3367,Male,Human resouces,Manager,600
+64cc5a9797c9666f6c3c3604,21748020112,Vo Tra T,2001-02-16T17:00:00.000Z,"67 Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 801-3324,Female,Human resouces,Emloyee,600
+64cc5a9c97c9666f6c3c3605,21748020113,Nguyen Van T ,1993-02-13T17:00:00.000Z,"12 Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 801-3345,Male,,Director ,5000
+64cc711a97c9663f98eb3491,21748020114,Nguyen Thanh H,2003-07-08T17:00:00.000Z,"19 Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 807-3393,Female,Accounting ,Emloyee,800
+64cc720097c9663f98eb3496,21748020119,Vo Tra F,2002-02-16T17:00:00.000Z,"71 Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 801-3392,Male,Human resouces,Employee,800
+64cc725697c9663f98eb3497,21748020120,Ly Ngoc  B,2003-05-14T17:00:00.000Z,"41 Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 801-3392,Female,IT,Emloyee,850
+64cc725e97c9663f98eb3498,21748020115,Ly Tra A,1999-09-14T17:00:00.000Z,"47  Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 801-3392,Female,Information ,Emloyee,820
+64cc726697c9663f98eb3499,21748020109,Ly Ngoc S,2002-05-16T17:00:00.000Z,"92 Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 801-3349,Female,IT,Emloyee,750
+64cc726c97c9663f98eb349a,21748020102,Ly Tra H ,2004-07-14T17:00:00.000Z,"29  Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 801-3392,Female,Information ,Manager,1300
+64cc727597c9663f98eb349b,21748020108,Ly Tra K,1998-09-14T17:00:00.000Z,"67  Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 801-3789,Male,Information ,Emloyee,620
+64cc727b97c9663f98eb349c,21748020110,Ly Hoang H,2003-05-14T17:00:00.000Z,"69 Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 801-3311,Female,Administrative,Emloyee,600
+64cc728297c9663f98eb349d,21748020103,Ly Ngoc D ,2001-05-17T17:00:00.000Z,"52 Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 801-2309,Male,IT,Manager,2000
+64cc728897c9663f98eb349e,21748020104,Ly Hoang B ,2002-05-15T17:00:00.000Z,"53 Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 801-2308,Male,Administrative,Manager,1500
+64cc729597c9663f98eb349f,21748020116,Ly Ngoc A,2003-05-16T17:00:00.000Z,"71 Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 801-3393,Male,IT,Emloyee,750
+64cc729d97c9663f98eb34a0,21748020117,Ly Hoang M,2002-05-14T17:00:00.000Z,"72 Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 801-3390,Male,Administrative,Emloyee,800
+64cc914b97c9663f98eb34a1,21748020111,Vo Tra M,2/15/2003,"55 Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 801-3235,Male,Marketing ,Emloyee,620
+64cc915897c9663f98eb34a2,21748020118,Vo Tra K,2/15/2002,"79 Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 801-3396,Female,Marketing ,Emloyee,820
+64cc91e297c9664218643af6,21748020105,Vo Tra K ,2/17/2002,"55 Dang Thuy Tram Street, Ward 13, District Binh Thanh",(090) 801-3367,Female,Marketing ,Manager,1500
